@@ -11,6 +11,12 @@ your choice.
 The code in the repo is just a POC (not well structured, no tests...) and is just intented to demonstrate the integration
 for api.ai and lambda functions to handle the anctions performed by the api.ai agent.
 
+![FB Bot](https://cloud.githubusercontent.com/assets/701346/21420057/bba95e6a-c82b-11e6-92cf-0457f4053fea.png "Facebook Bot")
+Facebook Bot
+
+![Telegram Bot](https://cloud.githubusercontent.com/assets/701346/21420058/bbadb87a-c82b-11e6-9fa0-c39d04d5bbd0.png "Telegram Bot")
+Telegram Bot
+
 # To reproduce the POC
 
 1. [Create an account in api.ai and upload the BankSearch.zip as a new agent](https://api.ai/)
